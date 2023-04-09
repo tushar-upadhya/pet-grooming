@@ -214,6 +214,6 @@ export const social = [
     },
     {
         icon: <AiFillGithub />,
-        href: "#",
+        href: "https://github.com/tushar-upadhya/pet-grooming",
     },
 ];

@@ -14,14 +14,21 @@ const Footer = () => {
 
                     {/* copyright */}
                     <div className="text-[15px]">
-                        &copy;Copyright 2022. All rights reserved
+                        &copy;{new Date().getFullYear()} All Rights Reserved ||
+                        Designed and Coded by{" "}
+                        <a
+                            className="hover:text-yellow transition"
+                            href="https://tusharupadhyay.vercel.app/"
+                        >
+                            Tushar Upadhyay
+                        </a>{" "}
                     </div>
 
                     {/* socials */}
                     <div className="flex gap-x-2">
                         {social.map((item, index) => {
                             return (
-                                <a href={item.href} key={index}>
+                                <a href={item.href} target="_blank" key={index}>
                                     <div className="bg-[#fe8d71a9] hover:bg-[#fe8d71] w-10 h-10 rounded-full flex justify-center items-center transition text-2xl ">
                                         {item.icon}
                                     </div>
