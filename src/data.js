@@ -65,12 +65,12 @@ export const bundleData = [
         services: [
             {
                 name: "smart",
-                price: 20,
+                price: 2000,
                 list: ["wash", "ears cleaning", "nail cut", "perfumed"],
             },
             {
                 name: "premium",
-                price: 40,
+                price: 4000,
                 list: [
                     "all smart services",
                     "service 1",
@@ -81,7 +81,7 @@ export const bundleData = [
             },
             {
                 name: "royal",
-                price: 60,
+                price: 6000,
                 list: [
                     "all premium services",
                     "service 1",
@@ -102,12 +102,12 @@ export const bundleData = [
         services: [
             {
                 name: "smart",
-                price: 80,
+                price: 8000,
                 list: ["wash", "ears cleaning", "nail cut", "perfumed"],
             },
             {
                 name: "premium",
-                price: 100,
+                price: 10000,
                 list: [
                     "all smart services",
                     "service 1",
@@ -118,7 +118,7 @@ export const bundleData = [
             },
             {
                 name: "royal",
-                price: 120,
+                price: 12000,
                 list: [
                     "all premium services",
                     "service 1",
@@ -139,12 +139,12 @@ export const bundleData = [
         services: [
             {
                 name: "smart",
-                price: 140,
+                price: 14000,
                 list: ["wash", "ears cleaning", "nail cut", "perfumed"],
             },
             {
                 name: "premium",
-                price: 160,
+                price: 16000,
                 list: [
                     "all smart services",
                     "service 1",
@@ -155,7 +155,7 @@ export const bundleData = [
             },
             {
                 name: "royal",
-                price: 180,
+                price: 18000,
                 list: [
                     "all premium services",
                     "service 1",
@@ -176,12 +176,12 @@ export const bundleData = [
         services: [
             {
                 name: "smart",
-                price: 200,
+                price: 20000,
                 list: ["wash", "ears cleaning", "nail cut", "perfumed"],
             },
             {
                 name: "premium",
-                price: 210,
+                price: 21000,
                 list: [
                     "all smart services",
                     "service 1",
@@ -192,7 +192,7 @@ export const bundleData = [
             },
             {
                 name: "royal",
-                price: 220,
+                price: 22000,
                 list: [
                     "all premium services",
                     "service 1",

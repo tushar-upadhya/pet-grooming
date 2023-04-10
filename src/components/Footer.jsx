@@ -17,7 +17,7 @@ const Footer = () => {
                         &copy;{new Date().getFullYear()} All Rights Reserved ||
                         Designed and Coded by{" "}
                         <a
-                            className="hover:text-yellow transition"
+                            className="text-blue font-semibold hover:text-white transition"
                             href="https://tusharupadhyay.vercel.app/"
                         >
                             Tushar Upadhyay
